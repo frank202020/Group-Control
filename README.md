@@ -8,15 +8,15 @@
 
 **本教程目录如下：**
 
-* **1.前提**
-  * 1.1 硬件要求
-  * 1.2 局域网环境
-* **2.CentOS-7.2系统安装**
-  * 2.1 选择开机启动模式
-  * 2.2 系统安装
-    * 2.2.1 进入图形化
-    * 2.2.2 未进入图形化界面的处理方法
-* **3.局域网服务器环境搭建**
+* [**1.前提**](https://frank202020.gitbooks.io/group-control/content/part1/)
+  * [1.1 硬件要求](https://frank202020.gitbooks.io/group-control/content/part1/1.1.html)
+  * [1.2 局域网环境](https://frank202020.gitbooks.io/group-control/content/part1/1.2.html)
+* [**2.CentOS-7.2系统安装**](https://frank202020.gitbooks.io/group-control/content/part2/)
+  * [2.1 选择开机启动模式](https://frank202020.gitbooks.io/group-control/content/part2/2.1.html)
+  * [2.2 系统安装](https://frank202020.gitbooks.io/group-control/content/part2/2.2.html)
+    * [2.2.1 进入图形化](https://frank202020.gitbooks.io/group-control/content/part2/2.2.1.html)
+    * [2.2.2 未进入图形化界面的处理方法](https://frank202020.gitbooks.io/group-control/content/part2/2.2.2.html)
+* [**3.局域网服务器环境搭建**](https://frank202020.gitbooks.io/group-control/content/part3/)
   * [3.1 关闭系统防火墙](https://frank202020.gitbooks.io/group-control/content/part3/3.1.html)
   * [3.2 在局域网服务器上安装旗翰云](https://frank202020.gitbooks.io/group-control/content/part3/3.1.html)
   * [3.3 账号管理](https://frank202020.gitbooks.io/group-control/content/part3/3.3.html)
@@ -28,7 +28,7 @@
 * [**5.群控文件管理**](https://frank202020.gitbooks.io/group-control/content/part5/)
   * [5.1 PC端Q-Link端群控文件配置](https://frank202020.gitbooks.io/group-control/content/part5/5.1.html)
   * [5.2 机器人端环境配置](https://frank202020.gitbooks.io/group-control/content/part5/5.2.html)
-* **6.常见FAQ解答**
+* [**6.常见FAQ解答**](https://frank202020.gitbooks.io/group-control/content/part6/)
   * [6.1 选择开机启动顺序之后， 页面一直没有进入图像化界面](https://frank202020.gitbooks.io/group-control/content/part6/6.1.html)
   * [6.2 第一次完成安装系统重启之后，系统继续提示 install Centos 界面，安装进入循环](https://frank202020.gitbooks.io/group-control/content/part6/6.2.html)
   * [6.3 搭载好服务器之后再 PC-Qlink 端发现登不上去，显示网络错误](https://frank202020.gitbooks.io/group-control/content/part6/6.3.html)
