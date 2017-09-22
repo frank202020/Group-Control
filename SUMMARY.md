@@ -2,8 +2,8 @@
 
 * [教程简介](README.md)
 * [1.前提](part1/README.md)
-  * [1.1 硬件要求](part1/1.1.md)
-  * [1.2 局域网环境](part1/1.2.md)
+* [1.1 硬件要求](part1/1.1.md)
+* [1.2 局域网环境](part1/1.2.md)
 * [2.CentOS-7.2系统安装](part2/README.md)
   * [2.1 选择开机启动模式](part2/2.1.md)
   * [2.2 系统安装](part2/2.2.md)
