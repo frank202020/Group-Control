@@ -9,17 +9,13 @@
 **本教程目录如下：**
 
 * [1.前提](https://www.gitbook.com/book/frank202020/group-control/edit#)
-
   * [1.1 硬件要求](https://github.com/frank202020/Group-Control/blob/master/part1/1.1.md)
   * [1.2 局域网环境](https://github.com/frank202020/Group-Control/blob/master/part1/1.2.md)
-
 * [2.CentOS-7.2系统安装](https://github.com/frank202020/Group-Control/blob/master/part2/README.md)
-
   * [2.1 选择开机启动模式](https://github.com/frank202020/Group-Control/blob/master/part2/2.1.md)
   * [2.2 系统安装](https://github.com/frank202020/Group-Control/blob/master/part2/2.2.md)
     * [2.2.1 进入图形化](https://github.com/frank202020/Group-Control/blob/master/part2/2.2.1.md)
     * [2.2.2 未进入图形化界面的处理方法](https://github.com/frank202020/Group-Control/blob/master/part2/2.2.2.md)
-
 * [3.局域网服务器环境搭建](https://github.com/frank202020/Group-Control/blob/master/part3/README.md)
   * [3.1 关闭系统防火墙](https://github.com/frank202020/Group-Control/blob/master/part3/3.1.md)
   * [3.2 在局域网服务器上安装旗翰云](https://github.com/frank202020/Group-Control/blob/master/part3/3.2.md)
