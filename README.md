@@ -1,14 +1,17 @@
-#                        三宝机器人局域网群控服务器搭建教程
+# 三宝机器人局域网群控服务器搭建教程
 
 > ### **写在前面的话：**
 
 这是一篇非常详细的局域网搭建教程，由Frank根据研发的原始的PDF教程改编而来。在此教程中，为了照顾很多新手（比如不知道一些基础的网络知识的人，例如，不懂路由器WIFI配置，不懂什么是WAN,什么是LAN,什么是 Cent OS系统, 文档中涉及的一些基础的linux命令等等），我们添加了一部分相关注释和说明，尽量降低该文档的操作难度，让这部分也能力愉快的参考该文档完成局域网搭建工作。
 
-----
+---
 
 本教程目录如下：
 
-[1.1 硬件要求](https://github.com/frank202020/Group-Control/blob/master/part1/1.1.md)
+* [1.前提](https://www.gitbook.com/book/frank202020/group-control/edit#)
+
+  * [1.1 硬件要求](https://github.com/frank202020/Group-Control/blob/master/part1/1.1.md)
+  * [1.2 局域网环境](https://github.com/frank202020/Group-Control/blob/master/part1/1.2.md)
 
 * [2.CentOS-7.2系统安装](https://github.com/frank202020/Group-Control/blob/master/part2/README.md)
   * [2.1 选择开机启动模式](https://github.com/frank202020/Group-Control/blob/master/part2/2.1.md)
