@@ -1,4 +1,4 @@
-[6.常见FAQ解答](https://github.com/frank202020/Group-Control/blob/master/part6/README.md)
+> [**6.常见FAQ解答**](https://github.com/frank202020/Group-Control/blob/master/part6/README.md)
 
 * [6.1 选择开机启动顺序之后， 页面一直没有进入图像化界面](https://frank202020.gitbooks.io/group-control/content/part6/6.1.html)
 * [6.2 第一次完成安装系统重启之后，系统继续提示 install Centos 界面，安装进入循环](https://frank202020.gitbooks.io/group-control/content/part6/6.2.html)
